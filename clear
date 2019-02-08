@@ -1,0 +1,17 @@
+[33mcommit fdb52fd89c1837e2c4e8d6663aac41753a82616d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mfeature[m[33m)[m
+Author: unknown <baharcandir75@gmail.com>
+Date:   Fri Feb 1 20:28:40 2019 -0600
+
+    branches learning
+
+[33mcommit 5920fe46b4599caa0b90a9f96f535f9d3a674426[m
+Author: unknown <baharcandir75@gmail.com>
+Date:   Fri Feb 1 20:11:38 2019 -0600
+
+    Reorganize annotations and close driver
+
+[33mcommit eb2f75d9445af78d66ddcce17b38e1d458b120f8[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: unknown <baharcandir75@gmail.com>
+Date:   Fri Feb 1 19:34:58 2019 -0600
+
+    First commit
